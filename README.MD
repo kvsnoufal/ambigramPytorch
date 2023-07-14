@@ -4,6 +4,8 @@
 ## Generating Ambigrams using Deep Learning: A Typography Approach
 Developing a typography technique that creates path-vectors given a text, and then runs an optimization routine using pytorch on the vectors to generate an ambigram.
 
+Full article : https://medium.com/mlearning-ai/generating-ambigrams-using-deep-learning-a-typography-approach-c829d0ee4d51
+
 In this article, I explore an approach to generating ambigrams using deep learning techniques. We use pytorch for implementing our optimizer and nueral network models.
 
 ## Approach
